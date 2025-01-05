@@ -1,6 +1,3 @@
-# Iris-flower-dataset
-# Iris Flower Classification
-
 # Iris Flower Dataset Analysis
 
 This project demonstrates an analysis of the Iris Flower dataset using a Jupyter Notebook. The analysis includes exploratory data visualization, feature correlation, and insights into the dataset.
